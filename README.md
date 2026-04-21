@@ -1,4 +1,4 @@
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M5
+# 19AI304-Fundamentals-of-C-Programming-2026-Even-M5
 # IAPR-5- Module 5 - FoC
 ## 9. Implementation of recursion.
 ## 10. Implementation of programs using pointer arithmetic.
@@ -39,7 +39,11 @@
 ### Step 12: 
   Stop
 # Program:
+<img width="782" height="604" alt="image" src="https://github.com/user-attachments/assets/3464b288-2730-4a6a-81cb-d25dd16959b9" />
+
 # Output:
+<img width="823" height="368" alt="image" src="https://github.com/user-attachments/assets/27993486-6ea3-4904-b1c9-7d7bfb8ff5da" />
+
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -77,7 +81,11 @@
 ### Step 10:
   Stop
 # Program:
+<img width="773" height="588" alt="image" src="https://github.com/user-attachments/assets/95947bcd-171d-4768-80d2-d146b21dabe3" />
+
 # Output:
+<img width="820" height="159" alt="image" src="https://github.com/user-attachments/assets/d6dc7ee6-e6e1-4653-b1c1-2522ddbde4e8" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -119,7 +127,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 12:
   Stop
 # Program:
+<img width="769" height="589" alt="image" src="https://github.com/user-attachments/assets/0185aa44-0816-45f2-a10f-738860e4525c" />
+
 # Output:
+<img width="797" height="133" alt="image" src="https://github.com/user-attachments/assets/f990eb7f-4c25-443d-a29e-fef4cb193c9c" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -161,7 +173,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 11:
   Stop
 # Program:
+<img width="778" height="605" alt="image" src="https://github.com/user-attachments/assets/e5f4dd08-fef9-4b3a-8e1a-05cdd9522965" />
+
 # Output:
+<img width="812" height="164" alt="image" src="https://github.com/user-attachments/assets/6ca50c0b-aaca-41b7-939d-1dc48623fb93" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -197,6 +213,10 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10:
   Stop
 # Program:
+<img width="782" height="623" alt="image" src="https://github.com/user-attachments/assets/66a2fb73-c494-4988-b411-245ce636219a" />
+
 # Output:
+<img width="804" height="196" alt="image" src="https://github.com/user-attachments/assets/6988d904-55f7-491c-bf6f-b4a1f7d2a163" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
